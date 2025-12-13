@@ -1,6 +1,6 @@
 # Hello Mate 👋, I'm Prateek 😄
 
-## AWS Cloud | DevOps  
+## AWS Cloud / DevOps  
 Pune,India  
 
  pratikgajbar@gmail.com | [LinkedIn](https://www.linkedin.com/in/pratik-gajbar) | [GitHub](https://github.com/prateekgajbar) | 
