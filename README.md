@@ -3,7 +3,7 @@
 ## AWS Cloud / DevOps  
 Pune,India  
 
- pratikgajbar@gmail.com | [LinkedIn](https://www.linkedin.com/in/pratik-gajbar) | [GitHub](https://github.com/prateekgajbar) | 
+ pratikgajbar@gmail.com | [LinkedIn](https://www.linkedin.com/in/pratik-gajbar) | [GitHub](https://github.com/prateekgajbar) | [Portfolio](https://prateekgajbar.github.io/) |
 
 ---
 
