@@ -16,6 +16,7 @@ Pune,India
 | AWS S3 Cross Account Replication | - AWS S3  <br> - IAM Roles & Policies  <br> - Replication Rules  <br> - Versioning | [AWS S3 Cross Account Replication](https://github.com/prateekgajbar/AWS-S3-Replication-Project) |
 | AWS EFS Shared File System | - AWS EFS  <br> - EC2  <br> - NFS  <br> - Security Groups | [AWS EFS Shared Files Setup](https://github.com/prateekgajbar/EFS) |
 | AWS Website Deployment | - AWS EC2  <br> - Apache / Nginx  <br> - IAM  <br> - Security Groups | [AWS Website Deployment](https://github.com/prateekgajbar/Website-Hosting) |
+|EC2-Cost-Optimization-Using-Lambda | - IAM <br> - EC2 <br> -LAMBDA <br> - Amzon Event Bridge | [EC-Cost-Optimization-Using-Lambda](https://github.com/prateekgajbar/EC2-Cost-Optimization-Using-Lambda)
 
 <br>
 <br>
