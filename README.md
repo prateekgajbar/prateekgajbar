@@ -19,7 +19,7 @@ Pune,India
 | AWS EFS Shared File System | - AWS EFS  <br> - EC2  <br> - NFS  <br> - Security Groups | [AWS EFS Shared Files Setup](https://github.com/prateekgajbar/EFS) |
 | AWS Website Deployment | - AWS EC2  <br> - Apache / Nginx  <br> - IAM  <br> - Security Groups | [AWS Website Deployment](https://github.com/prateekgajbar/Website-Hosting) |
 |EC2-Cost-Optimization-Using-Lambda | - IAM <br> - EC2 <br> -LAMBDA <br> - Amzon Event Bridge | [EC-Cost-Optimization-Using-Lambda](https://github.com/prateekgajbar/EC2-Cost-Optimization-Using-Lambda)
-|AWS-Ec2-Backup-Recovery | -IAM <br> - EC2 <br> - Amazon Backup <br> - EBS <br> | [AWS-Ec2-Backup-Recovery](https://github.com/prateekgajbar/AWS-Ec2-Backup-Recovery) | 
+|AWS-Ec2-Backup-Recovery | - IAM <br> - EC2 <br> - Amazon Backup <br> - EBS <br> | [AWS-Ec2-Backup-Recovery](https://github.com/prateekgajbar/AWS-Ec2-Backup-Recovery) | 
 
 <br>
 <br>
