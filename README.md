@@ -65,17 +65,6 @@
 
 ---
 
-## 🛠 What I Can Do  
-
-✔ Design & deploy scalable AWS architectures  
-✔ Implement 3-Tier applications on AWS  
-✔ Build CI/CD pipelines using Jenkins  
-✔ Automate infrastructure with Terraform  
-✔ Implement backup, recovery & DR solutions  
-✔ Optimize EC2 cost using serverless automation  
-
----
-
 ## 🚀 Projects  
 
 <table align="center">
