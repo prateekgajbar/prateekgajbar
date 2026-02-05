@@ -52,6 +52,8 @@
 
 ---
 
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 ## ⚙️ Tools & Platforms  
 
 ✔ AWS (EC2, S3, IAM, VPC, RDS, EFS, CloudWatch, Route 53)  
@@ -182,5 +184,6 @@ EBS
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Build%20Smart.%20Deploy%20Fast.%20Automate%20Everything%20☁️&fontSize=22&fontColor=61DAFB&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20For%20Visiting&fontSize=22&fontColor=61DAFB&animation=twinkling"/>
+
 
