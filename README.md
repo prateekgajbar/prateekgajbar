@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&text=Pratik%20Raju%20Gajbar&fontSize=45&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&text=Prateek%20Raju%20Gajbar&fontSize=45&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header"/>
 
 <h3 align="center">☁️ Cloud & DevOps Engineer | Fresher</h3>
 
