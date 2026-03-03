@@ -21,7 +21,7 @@
 🚀 Hands-on experience with **real-world AWS architectures**  
 🛠 Focused on **automation, scalability, security & cost optimization**  
 
-💡 *“Automate today, scale tomorrow.”*
+
 
 ---
 
