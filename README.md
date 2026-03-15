@@ -91,6 +91,19 @@ Auto Scaling
 </tr>
 
 <tr>
+<td><b>Terraform 2 Tier Application Deployment</b></td>
+<td>
+AWS EC2<br/>
+AWS VPC<br/>
+AWS RDS<br/>
+Terraform<br/>
+</td>
+<td>
+<a href="https://github.com/prateekgajbar/Terraform-Project">Terraform 2 Tier Application Deployment</a>
+</td>
+</tr>
+
+<tr>
 <td><b>AWS S3 Static Website Hosting</b></td>
 <td>
 AWS S3<br/>
