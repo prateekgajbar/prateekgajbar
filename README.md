@@ -104,31 +104,30 @@ Terraform<br/>
 </tr>
 
 <tr>
-<td><b>AWS S3 Static Website Hosting</b></td>
+<td><b>HotStar App Deployment</b></td>
 <td>
-AWS S3<br/>
-Static Website Hosting<br/>
-Bucket Policy<br/>
-IAM<br/>
+AWS EC2<br/>
+Nginx<br/>
+Jenkins<br/>
+Docker<br/>
 Route 53 (Optional)
 </td>
 <td>
-<a href="https://github.com/prateekgajbar/Static-Website-Hosting-on-Amazon-S3">AWS S3 Static Website Hosting</a>
+<a href="https://github.com/prateekgajbar/HotStar-Project">HotStar App Depolyment</a>
 </td>
 </tr>
 
-<tr>
-<td><b>AWS S3 Cross Account Replication</b></td>
+<!-- <tr>
+<td><b>HotStar App Depolyment</b></td>
 <td>
 AWS S3<br/>
 IAM Roles & Policies<br/>
-Replication Rules<br/>
-Versioning
+Replication R<br/>
 </td>
 <td>
 <a href="https://github.com/prateekgajbar/AWS-S3-Replication-Project">AWS S3 Cross Account Replication</a>
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td><b>AWS EFS Shared File System</b></td>
